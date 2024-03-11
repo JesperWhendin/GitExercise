@@ -1,11 +1,5 @@
-
-p {
-    color: aqua;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    font-style: oblique;
-}
 .jesper{
     margin: 5px;
     text-decoration-thickness: 100%;
+    padding-inline: 1px;
 }
