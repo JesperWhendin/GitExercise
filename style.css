@@ -1,9 +1,11 @@
-<<<<<<< HEAD
+
 p {
     color: aqua;
-=======
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-style: oblique;
+}
 .jesper{
     margin: 5px;
     text-decoration-thickness: 100%;
->>>>>>> b38ec89ce41d5fa69539e6725398a2d47e4ae79e
 }
